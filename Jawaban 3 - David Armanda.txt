@@ -1,0 +1,14 @@
+Headless Architecture adalah konsep pengembangan software yang memisahkan lapisan 
+front-end (antarmuka pengguna -UI) dan lapisan back-end (logika bisnis) situs web.
+Prinsipnya, sistem headless mencakup serangkaian solusi : frontend headless, platform
+headlees commerce, CMS Headless, pencarian atau pembayaran. Industri E-Commerces
+sebagian besar menganut konsep headless architecture, oleh karena itu muncullah istilah
+headless commerce.
+
+kelebihan dibangdingkan front-end langsung :
+1. Lapisan Presentasi Terpisah, artinya headlees memberikan anda fleksibilitas untuk
+   memilih cara terbaik untuk membangun lapisan frontend anda
+2. Multi Saluran
+3. Pengalaman pelanggan yang ditingkatkan
+4. Waktu load cepat
+5. keunggulan kompetitif

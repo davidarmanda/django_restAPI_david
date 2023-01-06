@@ -1,0 +1,7 @@
+REST API adalah antarmuka yang digunakan oleh dua sistem komputer untuk berukar
+informasi secara aman malalui internet. Sebagian besar aplikasi harus berkomunikasi
+dengan aplikasi internal dan pihak ketiga lainnya untuk melakukan berbagai tugas.
+
+REST API bekerja dengan cara memanipulasi resource dan representasi. Representasi
+ini saling dipertukarkan diantara pengguna dan server melalui antarmuka tersandar
+dan protokol komunikasi tertentu, biasanya HTTP
